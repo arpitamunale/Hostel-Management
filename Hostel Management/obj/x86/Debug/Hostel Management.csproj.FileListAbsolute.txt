@@ -1,0 +1,13 @@
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\bin\Debug\Hostel Management.exe
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\bin\Debug\Hostel Management.pdb
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel_Management.Form1.resources
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel_Management.Form2.resources
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel_Management.Form3.resources
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel_Management.Properties.Resources.resources
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel Management.csproj.GenerateResource.Cache
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel Management.exe
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel Management.pdb
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel_Management.Form4.resources
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel Management.csprojResolveAssemblyReference.cache
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel_Management.Form5.resources
+C:\Users\Riddhi Mitkari\OneDrive\Documents\Visual Studio 2010\Projects\Hostel Management\Hostel Management\obj\x86\Debug\Hostel_Management.Form6.resources
